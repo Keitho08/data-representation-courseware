@@ -1,0 +1,33 @@
+<!-- Keith Brazill - G00387845--> 
+<!-- Assignment 1.1 Data Representation--> 
+<!-- Computer Science with Data Analytics--> 
+
+<Library>
+	<Catalogues>
+		<Catalogue name="Technical Books">
+			<Books>
+				<Book ISBN="0415699320">
+					<author>Chadderton, David V.</author>
+					<title>Building Services Engineering</title>
+				</Book>
+				<Book ISBN="9780415644594">
+					<author>Charleson, Andrew</author>
+					<title>Structure as Architecture</title>
+				</Book>
+			</Books>
+		</Catalogue>
+		<Catalogue name="Cooking Books">
+			<Books>
+				<Book ISBN="9781444756692">
+					<author>Ramsey, Gordon</author>
+					<title>GORDON RAMSAY'S ULTIMATE COOKERY COURSE</title>
+				</Book>
+				<Book ISBN="9781473652279">
+					<author>Ramsey, Gordon</author>
+					<title>GORDON RAMSAY'S ULTIMATE FIT FOOD</title>
+				</Book>
+			</Books>
+		</Catalogue>
+	</Catalogues>
+</Library>
+
