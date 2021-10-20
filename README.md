@@ -2,8 +2,6 @@
 
 Repository for assignments as part of Data Represenation module on the Computer Science with Data Analytics Course at GMIT.
 
-# Programming for Data Analysis - Project 2020
-
 ## Galway Mayo Intitute of Technology - HDip Data Analytics 2020-2021
 ***
 ### Keith Brazill - G00387845
@@ -67,7 +65,7 @@ A good XML file should follow a certain set of rules as specified by W3Schools. 
 3. W3schools.com. 2021. XML Elements. [online] Available at: <https://www.w3schools.com/xml/xml_elements.asp> [Accessed 20 October 2021].
 4. W3schools.com. 2021. XML Attributes. [online] Available at: <https://www.w3schools.com/xml/xml_attributes.asp> [Accessed 20 October 2021].
 5. Codegrepper.com. 2021. .md xml code Code Example. [online] Available at: <https://www.codegrepper.com/code-examples/whatever/.md+xml+code> [Accessed 20 October 2021].
-6. eatty, A., 2021. GitHub - andrewbeattycourseware/datarepresentation2021. [online] GitHub. Available at: <https://github.com/andrewbeattycourseware/datarepresentation2021> [Accessed 20 October 2021].
+6. Beatty, A., 2021. GitHub - andrewbeattycourseware/datarepresentation2021. [online] GitHub. Available at: <https://github.com/andrewbeattycourseware/datarepresentation2021> [Accessed 20 October 2021].
 
 
 ***
